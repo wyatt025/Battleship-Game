@@ -1,4 +1,4 @@
-
+# Battleship
 A battleship game I made from scratch in JavaScript.<br>
 
 This was a personal challenge for myself based on a class assignment. The assisgnment was quite basic, a matrix for loop with some astrisks inserted at fixed quordinates.<br> 
